@@ -3,6 +3,63 @@
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Section Title</title>
 
-  <p> Text of section. </p>
+  <p> This is a paragraph thas has emphasized text.  <em>Really.</em>  I <q>love</q> pretext.
+  Sine is written <m>\sin(x)</m>.
+  <me>
+    \sin^2(x) + \cos^2(x) = 1
+  </me>.
+  We note that <term>slark</term> is a hybrid of shark and sloth.
+  <me>
+    f(x) = \left\{ \begin{array}{ll} 1 \amp \mbox{if } x=1\\ 0 \amp \mbox{if } x=0 \end{array} \right..
+  </me>
+   </p>
+
+  <p>
+    Numbered list of my favorite animals:
+    <ol>
+      <li>
+        <p>
+          Rabbit
+        </p>
+      </li>
+      <li>
+        <p>
+          Fox
+        </p>
+      </li>
+    </ol>
+  </p>
+  
+  <p>
+    Unordered list of favorite animals:
+    <ul>
+      <li>
+        <p>
+          Rabbit
+        </p>
+      </li>
+      <li>
+        <p>
+          Elephant
+        </p>
+      </li>
+    </ul>
+  </p>
+
+  <table>
+  <title>Some Colors</title>
+  <tabular bottom="minor" top="major" left="major" right="medium" halign="right">
+    <row>
+      <cell>Red</cell>
+      <cell>Green</cell>
+      <cell>Yellow</cell>
+    </row>
+    <row>
+      <cell>Blue</cell>
+      <cell>White</cell>
+      <cell>Pink</cell>
+    </row>
+  </tabular>
+</table>
 
 </section>
