@@ -62,4 +62,57 @@
   </tabular>
 </table>
 
+<axiom xml:id="axiom-exampleaxiom">
+  <statement>
+    <p>
+      The <term>term</term> is now defined.
+    </p>
+  </statement>
+</axiom>
+
+<lemma xml:id="lem-newlemma">
+  <statement>
+    <p>
+      Easy lemma.
+    </p>
+  </statement>
+</lemma>
+
+<theorem xml:id="thm-exthm">
+  <statement>
+    <p>
+      Statement of theorem.
+    </p>
+  </statement>
+</theorem>
+
+<proof>
+  <p>
+    By Lemma <xref ref="lem-newlemma"/>, we know the theorem is true.
+  </p>
+</proof>
+
+<activity>
+  <task workspace="1in">
+    <statement>
+      <p>
+        First task
+      </p>
+    </statement>
+    <hint>
+    <p>
+      Hint for first task.
+    </p>
+  </hint>
+  </task>
+
+  <task workspace="2in">
+    <statement>
+      <p>
+        Second task. Make new edits for testing commit.
+      </p>
+    </statement>
+  </task>
+
+</activity>
 </section>
