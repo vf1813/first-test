@@ -1,4 +1,4 @@
-<diagram dimensions="(300,300)" margins="5">
+<diagram xmlns="https://prefigure.org" dimensions="(300,300)" margins="5">
   <definition>f(x)=2.5-x^2/2</definition>
   <definition>a = 1</definition>
   <coordinates bbox="(-4,-4,4,4)">

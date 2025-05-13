@@ -115,4 +115,16 @@
   </task>
 
 </activity>
+
+<figure xml:id="test-fig">
+  <image>
+    <shortdescription></shortdescription>
+    <prefigure xmlns="https://prefigure.org" label="some-label">
+      <xi:include href="./prefig/fig1.xml" />
+    </prefigure>  
+  </image>
+  <caption></caption>
+</figure>
+
+
 </section>
